@@ -1,4 +1,4 @@
-# 🎵 Music Microservice Project --- 2025
+# 🎵 Music Microservice Project
 
 A microservice-based music application consisting of multiple backend
 services and a React + Vite frontend.
